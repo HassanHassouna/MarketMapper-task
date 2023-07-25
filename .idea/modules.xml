@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../market-mapper-task/.idea/market-mapper-task.iml" filepath="$PROJECT_DIR$/../market-mapper-task/.idea/market-mapper-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MarketMapper-task.iml" filepath="$PROJECT_DIR$/.idea/MarketMapper-task.iml" />
     </modules>
   </component>
 </project>
