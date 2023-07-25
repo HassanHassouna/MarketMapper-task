@@ -29,7 +29,7 @@ export const WidgetContainer = styled.div`
 
   @media screen and (max-width: 768px) {
     height: 100%;
-    width: fit-content;
+    width: 85%;
   }
 `;
 
